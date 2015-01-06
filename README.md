@@ -11,6 +11,7 @@ Using adb TCP mode, adb connection to an Android device via Wi-Fi from within it
 
 　Once the USB debugging confirmation dialog appears , and then approved by pressing the OK button .
 　
+
 3)unplug the USB cable
 
 4)start the ADBUtil app
@@ -19,6 +20,7 @@ Using adb TCP mode, adb connection to an Android device via Wi-Fi from within it
 
  Once the USB debugging confirmation dialog appears , and then approved by pressing the OK button .
  
+
 6)tap "adb devices" button to show connected devices.
 
 7)tap "adb logcat -d" button to show logcat logs.
