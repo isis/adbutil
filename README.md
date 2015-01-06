@@ -30,3 +30,5 @@ Using adb TCP mode, adb connection to an Android device via Wi-Fi from within it
 
 --
 Android Studio 1.0.2
+
+I was tested in Nexus 7 Android OS 4.4.4
